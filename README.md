@@ -8,7 +8,7 @@ I am a career changer coming from a customer service and administration backgrou
 
 *   🌍  I'm based in Manchester
 *   ✉️  You can contact me at [nikita.hay1@icloud.com](mailto:nikita.hay1@icloud.com)
-*   🧠  I'm learning SQL, Tableau, PowerBI & Python## Hi there 👋
+*   🧠  I'm learning SQL, Tableau, PowerBI & Python## 
 
 <!--
 **Nikita-Hay/Nikita-Hay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
