@@ -1,4 +1,14 @@
-## Hi there 👋
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Nikita Hay
+==================================================================================================================================
+
+Data Analyst
+------------
+
+I am a career changer coming from a customer service and administration background into the wonderful world of data!
+
+*   🌍  I'm based in Manchester
+*   ✉️  You can contact me at [nikita.hay1@icloud.com](mailto:nikita.hay1@icloud.com)
+*   🧠  I'm learning SQL, Tableau, PowerBI & Python## Hi there 👋
 
 <!--
 **Nikita-Hay/Nikita-Hay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
